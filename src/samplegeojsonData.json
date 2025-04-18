@@ -1,0 +1,175 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 1",
+        "value": 100
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.00, 40.71],
+          [-73.99, 40.71],
+          [-73.99, 40.72],
+          [-74.00, 40.72],
+          [-74.00, 40.71]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 2",
+        "value": 200
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.01, 40.71],
+          [-74.00, 40.71],
+          [-74.00, 40.72],
+          [-74.01, 40.72],
+          [-74.01, 40.71]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 3",
+        "value": 150
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.00, 40.72],
+          [-73.99, 40.72],
+          [-73.99, 40.73],
+          [-74.00, 40.73],
+          [-74.00, 40.72]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 4",
+        "value": 250
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.01, 40.72],
+          [-74.00, 40.72],
+          [-74.00, 40.73],
+          [-74.01, 40.73],
+          [-74.01, 40.72]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 5",
+        "value": 300
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.02, 40.71],
+          [-74.01, 40.71],
+          [-74.01, 40.72],
+          [-74.02, 40.72],
+          [-74.02, 40.71]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 6",
+        "value": 180
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.03, 40.71],
+          [-74.02, 40.71],
+          [-74.02, 40.72],
+          [-74.03, 40.72],
+          [-74.03, 40.71]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 7",
+        "value": 220
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.03, 40.72],
+          [-74.02, 40.72],
+          [-74.02, 40.73],
+          [-74.03, 40.73],
+          [-74.03, 40.72]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 8",
+        "value": 350
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.04, 40.71],
+          [-74.03, 40.71],
+          [-74.03, 40.72],
+          [-74.04, 40.72],
+          [-74.04, 40.71]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 9",
+        "value": 120
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.05, 40.71],
+          [-74.04, 40.71],
+          [-74.04, 40.72],
+          [-74.05, 40.72],
+          [-74.05, 40.71]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 10",
+        "value": 170
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-74.05, 40.72],
+          [-74.04, 40.72],
+          [-74.04, 40.73],
+          [-74.05, 40.73],
+          [-74.05, 40.72]
+        ]]
+      }
+    }
+  ]
+}

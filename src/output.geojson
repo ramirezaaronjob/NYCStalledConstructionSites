@@ -1,0 +1,159 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 1",
+        "value": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.983329,
+          40.663773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 2",
+        "value": 301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.955943,
+          40.716962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 3",
+        "value": 311
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.003482,
+          40.600394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 4",
+        "value": 501
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07688,
+          40.62567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 5",
+        "value": 301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.967772,
+          40.709511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 6",
+        "value": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.942705,
+          40.585862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 7",
+        "value": 402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.940912,
+          40.748778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 8",
+        "value": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.989832,
+          40.637926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 9",
+        "value": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.917405,
+          40.702901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 10",
+        "value": 101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.008329,
+          40.712458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Area 11",
+        "value": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.991657,
+          40.627726
+        ]
+      }
+    }
+  ]
+}
